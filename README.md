@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesiren23&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesiren23&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stutitiwari23&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutitiwari23&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180"/>
 </p>
 
 ---
