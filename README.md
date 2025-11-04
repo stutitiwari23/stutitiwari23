@@ -20,7 +20,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stutitiwari23&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutitiwari23&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180"/>
 </p>
 
@@ -46,9 +45,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
@@ -58,9 +55,6 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/stutitiwari23/Personal-Finance-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutitiwari23&repo=Personal-Finance-Manager&theme=radical" />
-  </a>
   <a href="https://github.com/stutitiwari23/Netflix-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stutitiwari23&repo=Netflix-clone&theme=radical" />
   </a>
